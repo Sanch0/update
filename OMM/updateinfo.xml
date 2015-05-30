@@ -7,7 +7,7 @@
     <versionName>1.1</versionName>
     <forceUpdate>true</forceUpdate>
     <autoUpdate>true</autoUpdate>
-    <apkUrl></apkUrl>
+    <apkUrl>https://raw.githubusercontent.com/Sanch0/zipati/master/OMM/omm-release.apk</apkUrl>
     <updateTips>
         <default>update tips</default>
         <en>update tips</en>
