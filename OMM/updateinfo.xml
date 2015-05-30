@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateInfo>
+    <appName>ÖMM</appName>
+    <appDescription>ÖMM App</appDescription>
+    <packageName>com.motoscan.app</packageName>
+    <versionCode>2</versionCode>
+    <versionName>1.1</versionName>
+    <forceUpdate>true</forceUpdate>
+    <autoUpdate>true</autoUpdate>
+    <apkUrl></apkUrl>
+    <updateTips>
+        <default>update tips</default>
+        <en>update tips</en>
+	<de>Aktualisierung</de>
+    </updateTips>
+</updateInfo>
