@@ -3,11 +3,11 @@
     <appName>ÖMM</appName>
     <appDescription>ÖMM App</appDescription>
     <packageName>com.motoscan.app</packageName>
-    <versionCode>2</versionCode>
+    <versionCode>1</versionCode>
     <versionName>1.0</versionName>
     <forceUpdate>true</forceUpdate>
     <autoUpdate>true</autoUpdate>
-    <apkUrl>https://raw.githubusercontent.com/Sanch0/update/master/OMM/omm-release.apk</apkUrl>
+    <apkUrl>https://raw.githubusercontent.com/Sanch0/update/master/Zipati/zipati-release.apk</apkUrl>
     <updateTips>
         <default>update tips</default>
         <en>update tips</en>
