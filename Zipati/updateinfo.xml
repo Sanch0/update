@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updateInfo>
-    <appName>ÖMM</appName>
-    <appDescription>ÖMM App</appDescription>
-    <packageName>com.motoscan.app</packageName>
+    <appName>Zipati</appName>
+    <appDescription>Zipati</appDescription>
+    <packageName>com.zipati.app</packageName>
     <versionCode>2</versionCode>
     <versionName>1.0</versionName>
     <forceUpdate>true</forceUpdate>
