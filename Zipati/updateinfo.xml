@@ -3,7 +3,7 @@
     <appName>ÖMM</appName>
     <appDescription>ÖMM App</appDescription>
     <packageName>com.motoscan.app</packageName>
-    <versionCode>1</versionCode>
+    <versionCode>2</versionCode>
     <versionName>1.0</versionName>
     <forceUpdate>true</forceUpdate>
     <autoUpdate>true</autoUpdate>
