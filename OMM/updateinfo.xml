@@ -7,7 +7,7 @@
     <versionName>1.2</versionName>
     <forceUpdate>true</forceUpdate>
     <autoUpdate>true</autoUpdate>
-    <apkUrl>https://raw.githubusercontent.com/Sanch0/update/master/OMM/omm-app.apk</apkUrl>
+    <apkUrl>https://raw.githubusercontent.com/Sanch0/update/master/OMM/omm-app_vc3.apk</apkUrl>
     <updateTips>
         <default>update tips</default>
         <en>update tips</en>
