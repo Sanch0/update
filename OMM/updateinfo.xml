@@ -5,7 +5,6 @@
     <packageName>com.motoscan.app</packageName>
     <versionCode>3</versionCode>
     <versionName>1.2</versionName>
-    <forceUpdate>true</forceUpdate>
     <autoUpdate>true</autoUpdate>
     <apkUrl>https://raw.githubusercontent.com/Sanch0/update/master/OMM/omm-app_vc3.apk</apkUrl>
     <updateTips>
