@@ -3,8 +3,8 @@
     <appName>ÖMM</appName>
     <appDescription>ÖMM App</appDescription>
     <packageName>com.motoscan.app</packageName>
-    <versionCode>6</versionCode>
-    <versionName>1.5</versionName>
+    <versionCode>11</versionCode>
+    <versionName>2.0.0</versionName>
     <autoUpdate>true</autoUpdate>
     <apkUrl>https://raw.githubusercontent.com/Sanch0/update/master/OMM/omm-app_vc6.apk</apkUrl>
     <updateTips>
