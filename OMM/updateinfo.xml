@@ -3,10 +3,10 @@
     <appName>ÖMM</appName>
     <appDescription>ÖMM App</appDescription>
     <packageName>com.motoscan.app</packageName>
-    <versionCode>11</versionCode>
-    <versionName>2.0.0</versionName>
+    <versionCode>201</versionCode>
+    <versionName>2.0.1</versionName>
     <autoUpdate>true</autoUpdate>
-    <apkUrl>https://raw.githubusercontent.com/Sanch0/update/master/OMM/omm-app_vc11.apk</apkUrl>
+    <apkUrl>https://raw.githubusercontent.com/Sanch0/update/master/OMM/omm-app_vc201.apk</apkUrl>
     <updateTips>
         <default>update tips</default>
         <en>update tips</en>
